@@ -1,0 +1,45 @@
+body {
+    background: rgb(177, 134, 141);
+   }
+
+
+h1{
+    text-align: left;
+    color: yellow;
+}
+h2{
+    text-align: left;
+    color: aqua
+}
+ul{
+    text-align:left;
+    color:antiquewhite
+}
+li{
+    text-align:left;
+    color: rgb(174, 231, 231)
+}
+h3{
+    text-align:left;
+    color:rgb(126, 188, 239)
+}
+h4{
+    text-align:left;
+    color: blue
+}
+h5{
+    text-align:left;
+    color:white
+}
+h6{
+    text-align:left;
+    color: blue
+}
+li{
+    text-align:left;
+    color:rgb(174, 231, 231)
+}
+p{
+    text-align:left;
+    color:aqua
+}
